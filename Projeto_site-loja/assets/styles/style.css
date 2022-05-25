@@ -315,3 +315,6 @@ align-items: center;
   height: 30px;
   margin-right: 10px;
 }
+.fixed:hover {
+  cursor: pointer;
+}
